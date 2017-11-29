@@ -3,3 +3,4 @@ Rainbow Colors
 Red
 Green
 Yellow
+Orange
